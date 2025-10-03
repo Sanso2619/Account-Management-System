@@ -1,0 +1,6 @@
+.DS_Store
+cmake-build-debug/
+*.o
+*.out
+*.exe
+account.txt
