@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sanchitaarora/CLionProjects/Account Management System/main'
+relocations:     []
+...
